@@ -1,0 +1,36 @@
+.home{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slider{
+    width:100%;
+    mask-image:linear-gradient(to bottom,rgb(0,0,0,1)rgba(0,0,0,0));
+    z-index:-1;
+    margin-bottom:-150px;
+    
+
+}
+.home__row{
+    display:flex;
+    z-index:1;
+    margin-left: 10px;
+    margin-right: 5px;
+
+
+}
+.home__row2{
+    display:flex;
+    z-index:1;
+    margin-left:10px;
+    margin-right:5px;
+
+}
+.home__row3{
+    
+    display:flex;
+    z-index:1;
+    margin-left:10px;
+    margin-right:5px;
+
+}
